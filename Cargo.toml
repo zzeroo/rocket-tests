@@ -1,0 +1,6 @@
+[package]
+name = "rocket-tests"
+version = "0.1.0"
+authors = ["zzeroo <co@zzeroo.com>"]
+
+[dependencies]
