@@ -1,6 +1,6 @@
 # Rocket Tests
 
-> "Rocket is a web framework for Rust that makes it simple to write fast web applications without sacrificing flexibility or type safety. All with minimal"
+> "Rocket is a web framework for Rust that makes it simple to write fast web applications without sacrificing flexibility or type safety. All with minimal code."
 > [https://rocket.rs/](https://rocket.rs/)
 
 # Development
